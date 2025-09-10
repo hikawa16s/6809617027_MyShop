@@ -346,6 +346,7 @@ img{
     font-size: 20pt;
     font-family: Nata Sans;
     text-indent: 2em;
+    text-align: center;
     background-color: #fbfbfb;
 }
 
@@ -368,6 +369,7 @@ img{
     background-color: rgb(254, 254, 253);
     font-size: 20pt;
     text-indent: 2em;
+    text-align: center;
 }
 
 .bagp{
