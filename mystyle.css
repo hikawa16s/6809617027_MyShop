@@ -363,6 +363,13 @@ img{
     background-color: rgb(250, 230, 138);
 }
 
+.baga{
+    font-family: Nata Sans;
+    background-color: rgb(254, 254, 253);
+    font-size: 20pt;
+    text-indent: 2em;
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
