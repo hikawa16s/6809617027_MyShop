@@ -166,6 +166,14 @@ img{
     background-color: rgb(185, 253, 231);
 }
 
+.whiten{
+    text-align: center;
+    font-family: Rowdies;
+    font-size: 25pt;
+    margin: 10px 0px;
+    background-color: rgb(160, 247, 251);
+}
+
 .crybaby{
     width: 500px;
     height: 500px;
