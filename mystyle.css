@@ -396,3 +396,13 @@ video{
     display: block;
     margin: auto;
 }
+
+.video{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(251, 251, 248);
+    margin: 20px 0px;
+    background-color: rgb(247, 189, 142);
+    font-family: Rowdies;
+
+}
