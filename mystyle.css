@@ -333,6 +333,13 @@ img{
     background-color: #fbfbfb;
 }
 
+.pbox1{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(250, 214, 244);
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
