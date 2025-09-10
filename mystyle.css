@@ -403,6 +403,13 @@ img{
     font-family: Rowdies;
 }
 
+.clearp{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(214, 250, 198);
+}
+
 .cr{
     font-family: Rowdies;
     color: #bc5b5b;
