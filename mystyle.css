@@ -326,6 +326,13 @@ img{
 
 }
 
+.abox1{
+    font-size: 20pt;
+    font-family: Nata Sans;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
