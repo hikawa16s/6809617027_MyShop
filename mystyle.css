@@ -22,9 +22,17 @@ header{
     text-align: center;
 }
 
+.logo {
+  color: #fff;
+  text-align: left;
+  margin-bottom: 30px;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 nav{
     padding: 10px 0;
-    width: 200px;
+    width: 270px;
     background-color: rgb(176, 168, 251);
     min-height: 100vh;
     padding-top: 20px;
