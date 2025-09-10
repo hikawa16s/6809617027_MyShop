@@ -80,6 +80,14 @@ img{
     text-align: center;
 }
 
+.Product{
+     color: #fbfbfb;
+    background-color: rgb(163, 218, 252);
+    font-size: 35pt;
+    font-family: Rowdies;
+    margin: 10px 0px;
+    text-align: center;
+}
 .hirono{
     width: 500px;
     height: 500px;
