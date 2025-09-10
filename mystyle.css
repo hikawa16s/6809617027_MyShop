@@ -370,6 +370,13 @@ img{
     text-indent: 2em;
 }
 
+.bagp{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(249, 227, 163);
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
