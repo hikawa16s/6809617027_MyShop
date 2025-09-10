@@ -326,6 +326,14 @@ img{
     padding: 20px;
 }
 
+.photodec{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
 .box1{
     font-size: 25pt;
     font-family: Rowdies;
