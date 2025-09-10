@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&family=Rowdies:wght@300;400;700&display=swap');
+
+body{
+    background-image: url(./resources/background.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.content{
+    background-color: rgb(243, 231, 248);
+    padding: 30px;
+}
+
+header{
+    background-color: rgb(209, 131, 242);
+    color: #fbfbfb;
+    font-family: Rowdies;
+    text-align: center;
+}
+
+nav{
+    padding: 10px 0;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul a{
+    color: #fbfbfb;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav a:hover{
+    color: black;
+}
+
+h1{
+    margin: 0px;
+    font-size: 40pt;
+}
+
+img{
+    display: block;
+    padding: 0px;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.aboutus{
+    background-color: rgb(135, 152, 247);
+    color: #fbfbfb;
+    margin: 0px;
+    font-size: 35pt;
+    font-family: Rowdies;
+    text-align: center;
+}
+
+.about{
+    text-indent: 3em;
+    background-color: rgb(254, 254, 253);
+    margin: 8px;
+    font-size: 20pt;
+    font-family: Nata Sans;
+}
+
+.Product{
+    color: #fbfbfb;
+    background-color: rgb(163, 218, 252);
+    font-size: 35pt;
+    font-family: Rowdies;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.hirono{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(144, 181, 170);
+}
+
+.hironon{
+    text-align: center;
+    font-family: Rowdies;
+    font-size: 25pt;
+    margin: 10px 0px;
+    background-color: rgb(135, 249, 217);
+}
+
+.hironoa{
+    font-size: 20pt;
+    font-family: Nata Sans;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
+.hironop{
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(185, 253, 231);
+}
+
+.crybaby{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(167, 186, 160);
+}
+
+.crybabyn{
+    font-family: Rowdies;
+    font-size: 25pt;
+    background-color: rgb(157, 248, 126);
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.crybabya{
+    font-size: 20pt;
+    font-family: Nata Sans;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
+.crybabyp{
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(191, 249, 185);
+}
+
+.hachipupu{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(210, 210, 152);
+}
+
+.hachipupun{
+    font-family: Rowdies;
+    font-size: 25pt;
+    text-align: center;
+    background-color: rgb(246, 246, 108);
+}
+
+.hachipupua{
+    font-family: Nata Sans;
+    font-size: 20pt;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
+.hachipupup{
+    font-family: Rowdies;
+    font-size: 20pt;
+    text-align: center;
+    background-color: rgb(253, 252, 195);
+}
+
+.labubu{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(210, 187, 141);
+}
+
+.labubun{
+    font-family: Rowdies;
+    font-size: 25pt;
+    text-align: center;
+    background-color: rgb(249, 224, 114);
+}
+
+.labubua{
+    font-family: Nata Sans;
+    background-color: rgb(254, 254, 253);
+    font-size: 20pt;
+    text-indent: 2em;
+}
+
+.labubup{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(249, 227, 163);
+}
+
+.molly{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(215, 190, 124);
+}
+
+.mollyn{
+    font-family: Rowdies;
+    font-size: 25pt;
+    text-align: center;
+    background-color: rgb(249, 205, 111);
+}
+
+.mollya{
+    font-size: 20pt;
+    font-family: Nata Sans;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
+.mollyp{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(252, 231, 173);
+}
+
+.skullpanda{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(215, 180, 206);
+}
+
+.skullpandan{
+    font-size: 25pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(252, 174, 231);
+}
+
+.skullpandaa{
+    font-size: 20pt;
+    font-family: Nata Sans;
+    text-indent: 2em;
+    background-color: #fbfbfb;
+}
+
+.skullpandap{
+    font-size: 20pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(250, 214, 244);
+}
+
+.contact{
+    text-align: center;
+    font-size: 40px;
+    color: beige;
+    margin: 20px 0px;
+    background-color: rgb(247, 145, 142);
+    font-family: Rowdies;
+}
+
+.cr{
+    font-family: Rowdies;
+    color: #bc5b5b;
+    text-align: center;
+}
+
+video{
+    display: block;
+    margin: auto;
+}
