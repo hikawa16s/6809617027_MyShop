@@ -386,6 +386,14 @@ img{
     background-color: rgb(186, 248, 171);
 }
 
+.cleara{
+    font-family: Nata Sans;
+    background-color: rgb(254, 254, 253);
+    font-size: 20pt;
+    text-indent: 2em;
+    text-align: center;
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
