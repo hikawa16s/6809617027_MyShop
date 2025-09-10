@@ -13,6 +13,7 @@ body{
     background-color: rgb(243, 231, 248);
     padding: 20px;
     margin-left: 100px;
+
 }
 
 header{
@@ -33,10 +34,9 @@ header{
 nav{
     padding: 10px 0;
     width: 270px;
-    background-color: rgb(176, 168, 251);
-    min-height: 100vh;
-    padding-top: 20px;
+    background-color: rgb(186, 180, 247);
     position: fixed;
+    min-height: 100vh;
     left: 0;
     top: 0;
 }
