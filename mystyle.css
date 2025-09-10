@@ -179,6 +179,15 @@ img{
     font-family: Nata Sans;
     text-indent: 2em;
     background-color: #fbfbfb;
+    text-align: center;
+}
+
+.whitep{
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(200, 245, 252);
 }
 
 .crybaby{
