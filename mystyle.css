@@ -379,6 +379,13 @@ img{
     background-color: rgb(249, 227, 163);
 }
 
+.clearn{
+    font-family: Rowdies;
+    font-size: 25pt;
+    text-align: center;
+    background-color: rgb(186, 248, 171);
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
