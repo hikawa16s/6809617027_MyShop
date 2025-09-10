@@ -318,6 +318,14 @@ img{
     background-color: rgb(250, 214, 244);
 }
 
+.box1{
+    font-size: 25pt;
+    font-family: Rowdies;
+    text-align: center;
+    background-color: rgb(253, 189, 236);
+
+}
+
 .contact{
     text-align: center;
     font-size: 40px;
