@@ -348,6 +348,7 @@ img{
     display: block;
     margin: auto;
     padding: 20px;
+    background-color: rgb(224, 157, 214);
 }
 
 .photodec{
@@ -438,6 +439,33 @@ img{
     font-family: Rowdies;
     color: #bc5b5b;
     text-align: center;
+}
+
+.bagphoto{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(215, 213, 151);
+}
+
+.artbox{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(159, 202, 157);
+}
+
+.whitebox{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(165, 204, 211);
 }
 
 video{
