@@ -87,8 +87,12 @@ img{
     text-indent: 3em;
     background-color: rgb(254, 254, 253);
     margin: 8px;
+    padding: 30px;
     font-size: 20pt;
     font-family: Nata Sans;
+    overflow: scroll;
+    width: 700px;
+    height: 300px;
 }
 
 .Arttoy{
@@ -477,6 +481,7 @@ img{
     padding: 20px;
     background-color: rgb(157, 224, 212);
 }
+
 
 video{
     display: block;
