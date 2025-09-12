@@ -113,7 +113,8 @@ img{
     background-color: rgb(104, 195, 252);
     font-size: 35pt;
     font-family: Rowdies;
-    margin: 10px 0px;
+    margin-bottom: 30px;
+    margin-top: 0px;
     text-align: center;
 }
 
