@@ -71,7 +71,7 @@ nav a:hover{
 
 h1{
     margin: 0px;
-    font-size: 40pt;
+    font-size: 60pt;
 }
 
 img{
@@ -111,7 +111,7 @@ img{
 .Arttoy{
     color: #fbfbfb;
     background-color: rgb(104, 195, 252);
-    font-size: 35pt;
+    font-size: 50pt;
     font-family: Rowdies;
     margin-bottom: 30px;
     margin-top: 0px;
@@ -121,7 +121,7 @@ img{
 .decoration{
     color: #fbfbfb;
     background-color: rgb(154, 137, 243);
-    font-size: 35pt;
+    font-size: 50pt;
     font-family: Rowdies;
     margin: 10px 0px;
     text-align: center;
@@ -130,10 +130,11 @@ img{
 .Product{
      color: #fbfbfb;
     background-color: rgb(163, 218, 252);
-    font-size: 35pt;
+    font-size: 50pt;
     font-family: Rowdies;
     margin: 10px 0px;
     text-align: center;
+    margin-top: 50px;
 }
 
 .arttoy1{
@@ -382,6 +383,7 @@ img{
     justify-content: center;
     align-items: center;
     margin: auto;
+    margin-top: 50px;
     padding: 20px;
     background-color: rgb(231, 226, 150);
 
@@ -514,6 +516,7 @@ img{
     margin: auto;
     padding: 20px;
     background-color: rgb(157, 224, 212);
+    margin-top: 50px;
 }
 
 
@@ -524,7 +527,7 @@ video{
 
 .video{
     text-align: center;
-    font-size: 40px;
+    font-size: 55px;
     color: rgb(251, 251, 248);
     margin: 20px 0px;
     background-color: rgb(247, 189, 142);
