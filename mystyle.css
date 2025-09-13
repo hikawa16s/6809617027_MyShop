@@ -47,6 +47,7 @@ nav{
     min-height: 100vh;
     left: 0;
     top: 0;
+    z-index: 10;
 }
 
 nav ul{
@@ -547,6 +548,7 @@ video{
     width: 100%;
     overflow: hidden;
     position: relative;
+    z-index: 1;
 }
 
 .sliders{
