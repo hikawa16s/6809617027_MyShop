@@ -12,8 +12,19 @@ body{
 .content{
     background-color: rgb(243, 231, 248);
     padding: 20px;
-    margin-left: 100px;
+    margin-left: 220px;
 
+}
+
+.slidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+    height: 100%;
+    padding: 20px;
+    background: #333;
+    color: #fff;
 }
 
 .content2{
