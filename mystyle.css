@@ -21,9 +21,9 @@ body{
 .content2{
     background-color: rgb(243, 231, 248);
     padding: 20px;
-    margin-left: 250px;
     width: 1000px;
     height: auto;
+    margin-left: 220px;
     margin-right: 20px;
 
 }
@@ -39,13 +39,13 @@ header{
   color: #fff;
   text-align: left;
   margin-bottom: 30px;
-  font-size: 20px;
+  font-size: 17px;
   letter-spacing: 1px;
 }
 
 nav{
     padding: 10px 0;
-    width: 270px;
+    width: 250px;
     background-color: rgb(186, 180, 247);
     position: fixed;
     min-height: 100vh;
