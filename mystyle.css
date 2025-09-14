@@ -13,14 +13,16 @@ body{
     background-color: rgb(243, 231, 248);
     padding: 20px;
     margin-left: 220px;
+    width: 1200px;
+    height: auto;
 
 }
 
 .content2{
     background-color: rgb(243, 231, 248);
     padding: 20px;
-    margin-left: 220px;
-    width: 1000px;
+    margin-left: 0px;
+    width: 1200px;
 
 }
 
